@@ -13,7 +13,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 **Web and Data Science** from University of Koblenz.
+- 🎓 **Web and Data Science** graduate from University of Koblenz.
 - 💻 Cloud-first Data Engineer with 3+ years of experience building and scaling data platforms on AWS and Azure, handling TB-scale production data.
 - ☁️ Strong at designing ELT pipelines using dbt, Spark, Databricks, Airflow, and cloud-native services like Redshift, Synapse, ADLS, S3.
 - Certified and continuously learning, with Microsoft Fabric, DataCamp, and Tableau storytelling credentials.
@@ -36,57 +36,37 @@
 ---
 
 ## 🛠️ Languages & Tools
-<p align="center">
-  <!-- Core Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-       alt="Python" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-       alt="SQL" width="55" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache_spark/apache_spark-original.svg"
-       alt="Apache Spark" width="45" height="45"/>
+<h3 align="left">🛠️ Languages & Tools</h3>
 
-  <!-- Cloud Platforms -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-       alt="AWS" width="55" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"
-       alt="Azure" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"
-       alt="GCP" width="45" height="45"/>
+<div style="display: flex; flex-wrap: nowrap; gap: 18px; align-items: center;">
+
+  <!-- Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="42" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="42" alt="MySQL"/>
+
+  <!-- Cloud -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" height="42" alt="AWS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" height="42" alt="Azure"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" height="42" alt="GCP"/>
 
   <!-- Data Engineering -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache_kafka/apache_kafka-original.svg"
-       alt="Kafka" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache_airflow/apache_airflow-original.svg"
-       alt="Airflow" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
-       alt="PostgreSQL" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
-       alt="MongoDB" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache_spark/apache_spark-original.svg" height="42" alt="Spark"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache_kafka/apache_kafka-original.svg" height="42" alt="Kafka"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="42" alt="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="42" alt="MongoDB"/>
 
-  <!-- Warehouses & Analytics -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/snowflake.svg"
-       alt="Snowflake" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/databricks.svg"
-       alt="Databricks" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dbt.svg"
-       alt="dbt" width="45" height="45"/>
+  <!-- Warehouses & BI -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/snowflake.svg" height="38" alt="Snowflake"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/databricks.svg" height="38" alt="Databricks"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" height="40" alt="Power BI"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" height="38" alt="Tableau"/>
 
-  <!-- BI Tools -->
-  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg"
-       alt="Power BI" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg"
-       alt="Tableau" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/looker.svg"
-       alt="Looker" width="45" height="45"/>
+  <!-- DevOps -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40" alt="GitHub"/>
 
-  <!-- ML & DevOps -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"
-       alt="TensorFlow" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
-       alt="Git" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-       alt="GitHub" width="45" height="45"/>
-</p>
+</div>
+
 
 
 
