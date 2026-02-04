@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sai Venkata Sahith Reddy</h1>
-<h3 align="center">Data Engineer | BI Engineer|  Data Analyst </h3>
+<h1 align="center">#Hi 👋, I'm Sai Venkata Sahith Reddy</h1>
+<h3 align="center">**Data Engineer | Analytics Engineer|  Data Analyst**</h3>
 <p align="center">
   <a href="https://sahith-2106.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -13,12 +13,13 @@
 ---
 
 ## 🚀 About Me
-- 🎓 **Web and Data Science** graduate from University of Koblenz.
-- 💻 Cloud-first Data Engineer with 3+ years of experience building and scaling data platforms on AWS and Azure, handling TB-scale production data.
-- ☁️ Strong at designing ELT pipelines using dbt, Spark, Databricks, Airflow, and cloud-native services like Redshift, Synapse, ADLS, S3.
-- Certified and continuously learning, with Microsoft Fabric, DataCamp, and Tableau storytelling credentials.
-- Strong cross-functional collaborator, working closely with data scientists, BI teams, and business stakeholders.
-- Able to communicate complex data concepts clearly through dashboards, documentation, and stakeholder discussions.
+
+- 🎓 Web & Data Science graduate from **University of Koblenz**
+- ☁️ Cloud-first **Data Engineer (3+ years)** building TB-scale platforms on AWS & Azure
+- ⚙️ Strong in **ELT pipelines** (dbt, Spark, Databricks, Airflow)
+- 📊 Enable **BI & ML use cases** with analytics-ready datasets
+- 🤝 Cross-functional collaborator with engineers, analysts & stakeholders
+- 💬 Communicate complex data clearly via dashboards & documentation
 - 📫 How to reach me: **sahith.kadapaiahgari2106@gmail.com**
 
 ---
@@ -33,6 +34,15 @@
 - **DevOps:** Git, GitHub, Azure DevOps, CI/CD  
 - **ML Enablement:** TensorFlow, Scikit-learn
 
+---
+
+## 🧩 Featured Projects
+
+- **Real-Time Stock Market Data Pipeline**  
+  Kafka-based streaming pipeline on AWS enabling near real-time analytics.
+
+- **Azure End-to-End Data Platform**  
+  ELT platform with ADF, Databricks & Synapse using medallion architecture.
 
 ---
 
