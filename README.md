@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Venkata Sahith Reddy</h1>
-**<h3 align="center">Data Engineer | Analytics Engineer|  Data Analyst</h3>**
+<h3 align="center">Data Engineer | Analytics Engineer|  Data Analyst</h3>
 <p align="center">
   <a href="https://sahith-2106.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
