@@ -25,9 +25,14 @@
 
 ## 🛠️ Tech Stack
 
-Python • SQL • PySpark • Apache Spark • Kafka • Databricks • dbt • Airflow  
-AWS • Azure • GCP • Snowflake • Redshift • PostgreSQL • MongoDB  
-Power BI • Tableau • Looker • Git • CI/CD • TensorFlow
+- **Languages:** Python, SQL, PySpark  
+- **Data Engineering:** Apache Spark, Kafka, Databricks, dbt, Airflow, Dagster  
+- **Cloud:** AWS (S3, Glue, Lambda, Redshift), Azure (ADF, Synapse, ADLS), GCP (BigQuery)  
+- **Databases:** Snowflake, Redshift, PostgreSQL, MySQL, Oracle, MongoDB  
+- **BI & Analytics:** Power BI, Tableau, Looker  
+- **DevOps:** Git, GitHub, Azure DevOps, CI/CD  
+- **ML Enablement:** TensorFlow, Scikit-learn
+
 
 ---
 
